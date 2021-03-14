@@ -21,7 +21,7 @@ If the grade is 0,No Attempt should print to the console.
 
 function test(grade){
 //CODE BELOW HERE
-
+function 
 
 
 //CODE ABOVE HERE
